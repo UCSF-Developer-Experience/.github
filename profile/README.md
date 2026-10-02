@@ -1,6 +1,6 @@
 # UCSF Developer Experience
 
-Welcome! This is the public-facing GitHub home of the UCSF Developer Experience team, proudly part of the UCSF Github Enterprise Cloud.
+Welcome! This is the public-facing GitHub home of the UCSF Developer Experience team, proudly part of the [UCSF Github Enterprise Cloud](https://github.com/enterprises/ucsf).
 
 We build, maintain, and share tools, examples, documentation, and other resources that help people at UCSF get their work done. Our work touches GitHub, Git, developer tooling, automation, software development practices, and the infrastructure and services that support them.
 
