@@ -19,3 +19,7 @@ Found something useful? Have a question? See something that could be better?
 Take a look at the README and Issues in the repository you're interested in. Depending on the project, you may be able to open an issue, start a discussion, or submit a pull request.
 
 We're the Developer Experience team. Helping people work with developer tools is what we're here for.
+
+## Lost? Looking for the on-prem version of the DevEx org?
+
+No worries, it's over here (behind a firewall): [UCSF-Shared](https://git.ucsf.edu/UCSF-Shared/)
